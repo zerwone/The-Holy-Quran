@@ -51,6 +51,6 @@ module.exports = {
 If you encounter any problem, go to the support server from [Here](https://discord.gg/dPBRZxsNst)
 
 # Mad By
-> zerwone8 [github](https://github.com/HamoudyPLus)
+> zerwone8 [github](https://github.com/zerwone)
 
 > Nemo [github](https://github.com/nemocutegirl)
