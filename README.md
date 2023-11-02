@@ -1,4 +1,4 @@
-# The-Holy-Quran
+# Discord Quran Bot
 
 
 <h1 align="center">The Holy Quran</h1>
