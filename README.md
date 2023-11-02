@@ -1,7 +1,6 @@
 # Discord Quran Bot
 
 
-<h1 align="center">The Holy Quran</h1>
 
 > The best bot that broadcasts the Holy Qur’an for free and smoothly
 
